@@ -12,10 +12,10 @@ In this capstone project, I worked with datasets from Starbucks that contains si
 
 I’ve used the CRISP-DM process to understand the datasets and derive insights to make recommendations to the Starbucks team. Through this capstone project, I wanted to understand the following:
 
-1. How does offer response depend on gender, age and income?
-2. Prepare a consolidated customer dataframe with their demographic details — age, income, gender and offer details — offers received and completed, transactions, etc.
-3. What type of demographic is least affected by offers?
-4. What are the top 2 offers for each customer segment?
+1. How does offer response depend on gender, age and income? 
+2. What type of demographic is least affected by offers?
+3. What are the top 2 offers for each customer segment?
+4. If we're given demographic features about a customer, how can we determine if they'll respond to a BOGO or a discount offer?
 
 ## Analysis Summary
 
@@ -42,8 +42,6 @@ Please refer to the Jupyter notebook for the detailed analysis
 Overall, this was a great challenging capstone project to test my knowledge from the last 5 months on the course. If I look back at where I started, I wouldn’t ever imagine to be at this place 5 months down the line.
 
 One of the interesting and difficult aspects of this project was it was open-ended and up to me as to how I analyzed and published my recommendation. It was a little daunting when I started but as I got into the problem, it was easy for me to connect the dots and arrive at the results. I was able to answer the questions I had in the beginning. It also was very relatable because in the real world, problems are open-ended and it’s up to the data scientist to figure out how to derive the insights and showcase it to the audience.
-
-As a follow-up to this capstone project, I want to dive deeper into the datasets and build a machine learning model that will take the customer and its users as attributes and tell which offers will have the most impact and when they will be completed after the customer has received them
 
 ## Repository Contents
 
