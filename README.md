@@ -80,6 +80,16 @@ One of the interesting and difficult aspects of this project was it was open-end
 
 I've explained my approach and analysis through a [blog](https://nihalshah1996.medium.com/starbucks-capstone-project-b78d7752d1e4) on Medium
 
+## Libraries
+
+1. pandas
+2. numpy
+3. math
+4. json
+5. matplotlib
+6. seaborn
+7. sklearn
+
 ## Authors
 
 [Nihal Shah](https://github.com/NIHALDSM10)
